@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @jmahnesmith
+- 👀 I’m interested in dotnet development and web applications!
+- 🌱 I’m currently learning dotnet core and improving my web design!
+- 📫 You can reach me at jwm2166@gmail.com
